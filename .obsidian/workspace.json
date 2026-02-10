@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dokumentation M300.md",
+                "file": "Dokumentation-M300.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dokumentation M300"
+              "title": "Dokumentation-M300"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "eda45140f4e5998a",
+  "active": "42f7309de687192d",
   "lastOpenFiles": [
     "Pasted image 20260210133624.png",
     "Pasted image 20260210133557.png",
@@ -196,7 +196,7 @@
     "Pasted image 20260210131407.png",
     "Pasted image 20260210131347.png",
     "Pasted image 20260210125817.png",
-    "Dokumentation M300.md",
+    "Dokumentation-M300.md",
     "README.md"
   ]
 }
