@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "496175ca572849c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e5d9f159200062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda45140f4e5998a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dokumentation M300.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dokumentation M300"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95098f2749d4c645",
+    "type": "split",
+    "children": [
+      {
+        "id": "4045141a148f91ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f7309de687192d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "c1b3696dc3363228",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "e6a7dce1bcfdbadb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fafaf9e46b00c5a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a727816aae871f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74236e431dcd881",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf README"
+            }
+          },
+          {
+            "id": "db3aea15bf4ac0e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von README öffnen"
+            }
+          },
+          {
+            "id": "e214faaaa2ec21fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ede6925008e90aa0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "1b2b724f5aa41f57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "eda45140f4e5998a",
+  "lastOpenFiles": [
+    "Pasted image 20260210133624.png",
+    "Pasted image 20260210133557.png",
+    "Pasted image 20260210133103.png",
+    "Pasted image 20260210132519.png",
+    "Pasted image 20260210132512.png",
+    "Pasted image 20260210132456.png",
+    "Pasted image 20260210131705.png",
+    "Pasted image 20260210131413.png",
+    "Pasted image 20260210131407.png",
+    "Pasted image 20260210131347.png",
+    "Pasted image 20260210125817.png",
+    "Dokumentation M300.md",
+    "README.md"
+  ]
+}
